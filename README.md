@@ -1,10 +1,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangwenhaojf40&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwenhaojf40&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangwenhaojf40&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangwenhaojf40&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangwenhaojf40&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zhangwenhaojf40/zhangwenhaojf40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwenhaojf40&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
